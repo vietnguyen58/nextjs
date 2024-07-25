@@ -1,0 +1,10 @@
+export { default as IconComment } from "./IconComment";
+export { default as IconExplore } from "./IconExplore";
+export { default as IconOrder } from "./IconOder";
+export { default as IconPlay } from "./IconPlay";
+export { default as IconStudy } from "./IconStudy";
+export { default as IconUsers } from "./IconUser";
+export { default as IconEye } from "./IconEye";
+export { default as IconStar } from "./IconStar";
+export { default as IconDefault } from "./IconDefault";
+export { default as IconClock } from "./IconClock";
